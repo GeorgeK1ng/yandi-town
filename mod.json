@@ -5,9 +5,15 @@
 	"version" : "0.1.0",
 	"contact" : "https://vk.com/",
 	"modType" : "Town",
-	"chinese" : {
-		"name" : "炎帝城",
-		"description" : "城镇mod：炎帝城城镇。"
+	"changelog" : {
+		"0.1.1" : [
+			"Fixed towscreen palette",
+			"Fixed various text typos"
+		],
+		"0.1.0" : [
+			"Fixed towscreen palette",
+			"Fixed various text typos",
+		]
 	},
 	"factions" : [
 		"config/yandi/town/buildings.json",
