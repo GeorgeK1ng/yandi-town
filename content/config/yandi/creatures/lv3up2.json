@@ -1,48 +1,43 @@
 {
-	"yandilv3up2":
-	{
-		"name" :
-		{
+	"yandilv3up2" : {
+		"name" : {
 			"plural" : "Feathered Guardians",
 			"singular" : "Feathered Guardian"
 		},
-		"advMapAmount" :
-		{
-			 "max" : 20,
-			 "min" : 12
+		"advMapAmount" : {
+			"max" : 20,
+			"min" : 12
 		},
 		"faction" : "yandi",
-		"hasDoubleWeek": true,
+		"hasDoubleWeek" : true,
 		"aiValue" : 657,
 		"attack" : 10,
 		"shots" : 24,
 		"doubleWide" : false,
-                "cost" :
-		{
+		"cost" : {
 			"gold" : 280
 		},
-		"damage" :
-		{
-			 "max" : 15,
-			 "min" : 5
+		"damage" : {
+			"max" : 15,
+			"min" : 5
 		},
 		"defense" : 10,
 		"fightValue" : 601,
-		"graphics" :
-		{
-			
-			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+		"graphics" : {
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
 			"animation" : "yandi/creatures/battle/lv3up2.json",
 			"map" : "yandi/creatures/map/lv3up2.json",
 			"iconSmall" : "yandi/creatures/iconsSmall/lv3up2s.png",
 			"iconLarge" : "yandi/creatures/iconsBig/lv3up2b.png",
 			"timeBetweenFidgets" : 1,
-			"missile" :
-			{
-				"projectile": "yandi/creatures/projectile/bansh.def",
+			"missile" : {
+				"projectile" : "yandi/creatures/projectile/bansh.def",
 				"attackClimaxFrame" : 7,
-				"offset" :
-				{
+				"offset" : {
 					"upperX" : 38,
 					"upperY" : -65,
 					"middleX" : 36,
@@ -50,108 +45,193 @@
 					"lowerX" : 21,
 					"lowerY" : -50
 				},
-				"frameAngles" : [90, 72, 45, 27, 0, -27, -45, -72, -90, 0, 0, 0]
+				"frameAngles" : [
+					90,
+					72,
+					45,
+					27,
+					0,
+					-27,
+					-45,
+					-72,
+					-90,
+					0,
+					0,
+					0
+				]
 			}
-        },
+		},
 		"growth" : 7,
 		"horde" : 12,
 		"hitPoints" : 35,
 		"level" : 3,
-		"sound" :
-		{
-			"attack": "RGRFATTK.wav",
-			"defend": "RGRFDFND.wav",
-			"killed": "RGRFKILL.wav",
-			"move": "RGRFMOVE.wav",
-			"wince": "RGRFWNCE.wav"
+		"sound" : {
+			"attack" : "RGRFATTK.wav",
+			"defend" : "RGRFDFND.wav",
+			"killed" : "RGRFKILL.wav",
+			"move" : "RGRFMOVE.wav",
+			"wince" : "RGRFWNCE.wav"
 		},
 		"speed" : 11,
-		"abilities":
-		{
-			"canFly" : 
-			{	
-			    "type" : "FLYING"	
+		"abilities" : {
+			"canFly" : {
+				"type" : "FLYING"
 			},
-			"canShoot" :
-			{
-				"type" : "SHOOTER"			
+			"canShoot" : {
+				"type" : "SHOOTER"
 			},
-			"extraRetaliation" :
-			{
+			"extraRetaliation" : {
 				"type" : "ADDITIONAL_RETALIATION",
 				"val" : 1
 			},
-			"damageReduction": 
-			{
-				"type": "GENERAL_DAMAGE_REDUCTION",
-				"val": 15
+			"damageReduction" : {
+				"type" : "GENERAL_DAMAGE_REDUCTION",
+				"val" : 15
 			}
 		},
-		"stackExperience" :
-		[
+		"stackExperience" : [
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "primarySkill.attack",
 					"type" : "PRIMARY_SKILL"
 				},
-				"values" : [ 1, 1, 2, 2, 3, 3, 4, 4, 5, 5 ]
-			},	
+				"values" : [
+					1,
+					1,
+					2,
+					2,
+					3,
+					3,
+					4,
+					4,
+					5,
+					5
+				]
+			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "primarySkill.defence",
 					"type" : "PRIMARY_SKILL"
 				},
-				"values" : [ 1, 1, 2, 2, 3, 3, 4, 4, 5, 5 ]
+				"values" : [
+					1,
+					1,
+					2,
+					2,
+					3,
+					3,
+					4,
+					4,
+					5,
+					5
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "creatureDamageBoth",
 					"type" : "CREATURE_DAMAGE"
 				},
-				"values" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5 ]
+				"values" : [
+					0,
+					1,
+					1,
+					2,
+					2,
+					3,
+					3,
+					4,
+					4,
+					5
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "creatureDamageBoth",
 					"type" : "CREATURE_DAMAGE"
 				},
-				"values" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5 ]
+				"values" : [
+					0,
+					1,
+					1,
+					2,
+					2,
+					3,
+					3,
+					4,
+					4,
+					5
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"type" : "SPELL_AFTER_ATTACK",
 					"subtype" : "spell.stoneGaze"
-					
 				},
-				"values" : [ 3, 6, 9, 12, 15, 18, 21, 24, 27, 30 ]				
+				"values" : [
+					3,
+					6,
+					9,
+					12,
+					15,
+					18,
+					21,
+					24,
+					27,
+					30
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"type" : "SPELL_AFTER_ATTACK",
 					"subtype" : "spell.paralyze",
 					"addInfo" : 74
 				},
-				"values" : [ 5, 5, 5, 5, 10, 10, 10, 15, 15, 20 ]				
+				"values" : [
+					5,
+					5,
+					5,
+					5,
+					10,
+					10,
+					10,
+					15,
+					15,
+					20
+				]
 			},
 			{
-				"bonus" :
-				{ 
-					"type" : "DEATH_STARE" 
+				"bonus" : {
+					"type" : "DEATH_STARE"
 				},
-				"values" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]				
+				"values" : [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"type" : "STACKS_SPEED"
 				},
-				"values" : [ 0, 0, 0, 0, 1, 1, 1, 1, 1, 2 ]
+				"values" : [
+					0,
+					0,
+					0,
+					0,
+					1,
+					1,
+					1,
+					1,
+					1,
+					2
+				]
 			}
 		]
 	}

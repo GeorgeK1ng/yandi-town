@@ -1,7 +1,9 @@
 {
-    "basepath" : "yandi/town-screen/buildings/frames/",
-	"images" :
-	[
-		{ "frame" : 0, "file" : "64Lup_6a"}
+	"basepath" : "yandi/town-screen/buildings/frames/",
+	"images" : [
+		{
+			"frame" : 0,
+			"file" : "64Lup_6a"
+		}
 	]
 }

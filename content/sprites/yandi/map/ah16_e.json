@@ -1,10 +1,10 @@
 {
-    "images": [
-        {
-            "group": 0,
-            "frame": 0,
-            "file": "00110.png"
-        }
-    ],
-    "basepath": "yandi/map/ah16_/"
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "00110.png"
+		}
+	],
+	"basepath" : "yandi/map/ah16_/"
 }

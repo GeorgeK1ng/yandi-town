@@ -1,24 +1,20 @@
 {
-	"yandilv5up2":
-	{
-		"name" :
-		{
+	"yandilv5up2" : {
+		"name" : {
 			"plural" : "Qiongqi Chu",
 			"singular" : "Qiongqi Chu"
 		},
-		"advMapAmount" :
-		{
+		"advMapAmount" : {
 			"max" : 12,
 			"min" : 8
 		},
 		"faction" : "yandi",
-        "level" : 5,
+		"level" : 5,
 		"attack" : 18,
 		"defense" : 12,
-		"damage" :
-		{
-			 "min" : 15,
-			 "max" : 25
+		"damage" : {
+			"min" : 15,
+			"max" : 25
 		},
 		"growth" : 3,
 		"doubleWide" : false,
@@ -27,29 +23,24 @@
 		"shots" : 12,
 		"fightValue" : 1264,
 		"aiValue" : 1385,
-		"cost" :
-		{
+		"cost" : {
 			"gold" : 550
 		},
-		"graphics" :
-		{
+		"graphics" : {
 			"animation" : "yandi/creatures/battle/lv5up2.json",
 			"map" : "yandi/creatures/map/lv5up2.json",
 			"iconSmall" : "yandi/creatures/iconsSmall/lv5up2s.png",
 			"iconLarge" : "yandi/creatures/iconsBig/lv5up2b.png",
 			"timeBetweenFidgets" : 1,
-			"animationTime" :
-			{
+			"animationTime" : {
 				"walk" : 1,
 				"attack" : 1,
 				"idle" : 10
 			},
-			"missile" :
-			{
-				"projectile": "yandi/creatures/projectile/zrmagik1.def",
+			"missile" : {
+				"projectile" : "yandi/creatures/projectile/zrmagik1.def",
 				"attackClimaxFrame" : 7,
-				"offset" :
-				{
+				"offset" : {
 					"upperX" : 38,
 					"upperY" : -65,
 					"middleX" : 36,
@@ -57,145 +48,212 @@
 					"lowerX" : 21,
 					"lowerY" : -50
 				},
-				"frameAngles" : [90, 72, 45, 27, 0, -27, -45, -72, -90, 0, 0, 0]
+				"frameAngles" : [
+					90,
+					72,
+					45,
+					27,
+					0,
+					-27,
+					-45,
+					-72,
+					-90,
+					0,
+					0,
+					0
+				]
 			}
-		},	
-		"sound" :
-		{
-			"attack": "ZELTATTK.wav",
-			"defend": "ZELTDFND.wav",
-			"killed": "ZELTKILL.wav",
-			"move": "ZELTMOVE.wav",
-			"shoot": "ZELTSHOT.wav",
-			"wince": "ZELTWNCE.wav"
-               },
-		"abilities" :
-		{
-			
-			"magicMirror":
-			{ 
-			    "type" : "MAGIC_MIRROR",		
-				"val" : 15	
+		},
+		"sound" : {
+			"attack" : "ZELTATTK.wav",
+			"defend" : "ZELTDFND.wav",
+			"killed" : "ZELTKILL.wav",
+			"move" : "ZELTMOVE.wav",
+			"shoot" : "ZELTSHOT.wav",
+			"wince" : "ZELTWNCE.wav"
+		},
+		"abilities" : {
+			"magicMirror" : {
+				"type" : "MAGIC_MIRROR",
+				"val" : 15
 			},
-			"magicResistance" :
-			{
+			"magicResistance" : {
 				"type" : "SPELL_DAMAGE_REDUCTION",
 				"subtype" : "spellSchool.any",
 				"val" : 25
 			},
-			"canCast" :
-			{	
-			    "type" : "SPELLCASTER",
-				"subtype" : "spell.protectEarth",	
+			"canCast" : {
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.protectEarth",
 				"val" : 3
 			},
-			"castSpeed" :	
-			{
+			"castSpeed" : {
 				"type" : "SPELLCASTER",
 				"subtype" : "spell.destroyUndead",
-				"val" : 3	
+				"val" : 3
 			},
-			"decimation" :
-			{
+			"decimation" : {
 				"type" : "DESTRUCTION",
 				"subtype" : "destructionKillPercentage",
 				"val" : 20,
 				"addInfo" : 20
 			},
-			"canprayer" :
-			{	
-			    "type" : "SPELLCASTER",
-				"subtype" : "spell.prayer",	
-				"val" : 2	
+			"canprayer" : {
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.prayer",
+				"val" : 2
 			},
-			"spellpower" :	
-			{
-				"type" : "CREATURE_SPELL_POWER",	
-				"val" : 100	
+			"spellpower" : {
+				"type" : "CREATURE_SPELL_POWER",
+				"val" : 100
 			},
-            "castsAmount" :	
-			{
-				"type" : "CASTS",	
-				"val" : 3	
+			"castsAmount" : {
+				"type" : "CASTS",
+				"val" : 3
 			},
-            "enchant" :	
-			{
-				"type" : "CREATURE_ENCHANT_POWER",	
-				"val" : 1	
+			"enchant" : {
+				"type" : "CREATURE_ENCHANT_POWER",
+				"val" : 1
 			},
-			"paralize" :
-			{
+			"paralize" : {
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.earthquake",
 				"val" : 100
 			},
-			"castsBless" :
-			{
+			"castsBless" : {
 				"type" : "ENCHANTER",
 				"subtype" : "spell.bless",
 				"val" : 3
 			},
-			"firstStrike" :
-			{	
-			    "type" : "FIRST_STRIKE"	
+			"firstStrike" : {
+				"type" : "FIRST_STRIKE"
 			}
 		},
-		"stackExperience" :
-		[
+		"stackExperience" : [
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "primarySkill.attack",
 					"type" : "PRIMARY_SKILL"
 				},
-				"values" : [ 1, 1, 2, 3, 4, 5, 5, 6, 7, 8 ]
-			},	
+				"values" : [
+					1,
+					1,
+					2,
+					3,
+					4,
+					5,
+					5,
+					6,
+					7,
+					8
+				]
+			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "primarySkill.defence",
 					"type" : "PRIMARY_SKILL"
 				},
-				"values" : [ 1, 2, 3, 3, 4, 4, 6, 6, 7, 8 ]
+				"values" : [
+					1,
+					2,
+					3,
+					3,
+					4,
+					4,
+					6,
+					6,
+					7,
+					8
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "creatureDamageBoth",
 					"type" : "CREATURE_DAMAGE"
 				},
-				"values" : [ 1, 2, 2, 3, 4, 4, 5, 6, 7, 7 ]
+				"values" : [
+					1,
+					2,
+					2,
+					3,
+					4,
+					4,
+					5,
+					6,
+					7,
+					7
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"subtype" : "creatureDamageBoth",
 					"type" : "CREATURE_DAMAGE"
 				},
-				"values" : [ 0, 1, 2, 3, 3, 4, 5, 6, 6, 7 ]
+				"values" : [
+					0,
+					1,
+					2,
+					3,
+					3,
+					4,
+					5,
+					6,
+					6,
+					7
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"type" : "STACKS_SPEED"
 				},
-				"values" : [ 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+				"values" : [
+					0,
+					0,
+					0,
+					1,
+					1,
+					1,
+					1,
+					1,
+					1,
+					1
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"type" : "HP_REGENERATION",
 					"val" : 45
 				},
-				"values" : [ 0, 0, 0, 0, 50, 50, 50, 50, 50, 50]
+				"values" : [
+					0,
+					0,
+					0,
+					0,
+					50,
+					50,
+					50,
+					50,
+					50,
+					50
+				]
 			},
 			{
-				"bonus" :
-				{
+				"bonus" : {
 					"type" : "SPELL_DAMAGE_REDUCTION"
 				},
-				"values" : [ 3, 6, 9, 12, 15, 21, 24, 27, 30, 33]
+				"values" : [
+					3,
+					6,
+					9,
+					12,
+					15,
+					21,
+					24,
+					27,
+					30,
+					33
+				]
 			}
-		]	
+		]
 	}
 }
