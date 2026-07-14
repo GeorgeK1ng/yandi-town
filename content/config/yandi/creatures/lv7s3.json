@@ -1,45 +1,45 @@
 {
-	"yandilv7s3" : {
-		"advMapAmount" : {
-			"max" : 8,
-			"min" : 3
+	"yandilv7s3": {
+		"advMapAmount": {
+			"max": 8,
+			"min": 3
 		},
-		"aiValue" : 9925,
-		"attack" : 35,
-		"cost" : {
-			"gold" : 9000,
-			"gems" : 9
+		"aiValue": 9925,
+		"attack": 35,
+		"cost": {
+			"gold": 9000,
+			"gems": 9
 		},
-		"damage" : {
-			"max" : 85,
-			"min" : 35
+		"damage": {
+			"max": 85,
+			"min": 35
 		},
-		"defense" : 27,
-		"faction" : "yandi",
-		"fightValue" : 8454,
-		"graphics" : {
-			"animationTime" : {
-				"attack" : 1,
-				"idle" : 10,
-				"walk" : 0.8
+		"defense": 27,
+		"faction": "yandi",
+		"fightValue": 8454,
+		"graphics": {
+			"animationTime": {
+				"attack": 1,
+				"idle": 10,
+				"walk": 0.8
 			},
-			"animation" : "yandi/creatures/battle/lv7s3.json",
-			"map" : "yandi/creatures/map/lv7s3.json",
-			"iconSmall" : "yandi/creatures/iconsSmall/lv7s3s.png",
-			"iconLarge" : "yandi/creatures/iconsBig/lv7s3b.png",
-			"timeBetweenFidgets" : 1,
-			"missile" : {
-				"projectile" : "yandi/creatures/projectile/shot211.def",
-				"attackClimaxFrame" : 7,
-				"offset" : {
-					"upperX" : 38,
-					"upperY" : -65,
-					"middleX" : 36,
-					"middleY" : -59,
-					"lowerX" : 21,
-					"lowerY" : -50
+			"animation": "yandi/creatures/battle/lv7s3.json",
+			"map": "yandi/creatures/map/lv7s3.json",
+			"iconSmall": "yandi/creatures/iconsSmall/lv7s3s.png",
+			"iconLarge": "yandi/creatures/iconsBig/lv7s3b.png",
+			"timeBetweenFidgets": 1,
+			"missile": {
+				"projectile": "yandi/creatures/projectile/shot211.def",
+				"attackClimaxFrame": 7,
+				"offset": {
+					"upperX": 38,
+					"upperY": -65,
+					"middleX": 36,
+					"middleY": -59,
+					"lowerX": 21,
+					"lowerY": -50
 				},
-				"frameAngles" : [
+				"frameAngles": [
 					90,
 					72,
 					45,
@@ -55,48 +55,48 @@
 				]
 			}
 		},
-		"growth" : 1,
-		"shots" : 8,
-		"hitPoints" : 240,
-		"speed" : 14,
-		"doubleWide" : false,
-		"level" : 7,
-		"name" : {
-			"plural" : "Rushou Attendants",
-			"singular" : "Rushou Attendant"
+		"growth": 1,
+		"shots": 8,
+		"hitPoints": 240,
+		"speed": 14,
+		"doubleWide": false,
+		"level": 7,
+		"name": {
+			"plural": "Rushou Attendants",
+			"singular": "Rushou Attendant"
 		},
-		"sound" : {
-			"attack" : "TempATTK.wav",
-			"defend" : "TempDFND.wav",
-			"killed" : "TempDEAD.wav",
-			"move" : "TempMOVE.wav",
-			"wince" : "TempWNCE.wav"
+		"sound": {
+			"attack": "TempATTK.wav",
+			"defend": "TempDFND.wav",
+			"killed": "TempDEAD.wav",
+			"move": "TempMOVE.wav",
+			"wince": "TempWNCE.wav"
 		},
-		"abilities" : {
-			"king" : {
-				"type" : "KING",
-				"val" : 2
+		"abilities": {
+			"king": {
+				"type": "KING",
+				"val": 2
 			},
-			"firstStrike" : {
-				"type" : "FIRST_STRIKE",
-				"subtype" : "damageTypeRanged"
+			"firstStrike": {
+				"type": "FIRST_STRIKE",
+				"subtype": "damageTypeRanged"
 			},
-			"deathStrike" : {
-				"type" : "DOUBLE_DAMAGE_CHANCE",
-				"val" : 50
+			"deathStrike": {
+				"type": "DOUBLE_DAMAGE_CHANCE",
+				"val": 50
 			},
-			"regeneration" : {
-				"type" : "HP_REGENERATION",
-				"val" : 80
+			"regeneration": {
+				"type": "HP_REGENERATION",
+				"val": 80
 			}
 		},
-		"stackExperience" : [
+		"stackExperience": [
 			{
-				"bonus" : {
-					"subtype" : "primarySkill.attack",
-					"type" : "PRIMARY_SKILL"
+				"bonus": {
+					"subtype": "primarySkill.attack",
+					"type": "PRIMARY_SKILL"
 				},
-				"values" : [
+				"values": [
 					1,
 					2,
 					3,
@@ -110,11 +110,11 @@
 				]
 			},
 			{
-				"bonus" : {
-					"subtype" : "primarySkill.defence",
-					"type" : "PRIMARY_SKILL"
+				"bonus": {
+					"subtype": "primarySkill.defence",
+					"type": "PRIMARY_SKILL"
 				},
-				"values" : [
+				"values": [
 					1,
 					2,
 					3,
@@ -128,11 +128,11 @@
 				]
 			},
 			{
-				"bonus" : {
-					"subtype" : "creatureDamageBoth",
-					"type" : "CREATURE_DAMAGE"
+				"bonus": {
+					"subtype": "creatureDamageBoth",
+					"type": "CREATURE_DAMAGE"
 				},
-				"values" : [
+				"values": [
 					1,
 					2,
 					3,
@@ -146,11 +146,11 @@
 				]
 			},
 			{
-				"bonus" : {
-					"subtype" : "creatureDamageBoth",
-					"type" : "CREATURE_DAMAGE"
+				"bonus": {
+					"subtype": "creatureDamageBoth",
+					"type": "CREATURE_DAMAGE"
 				},
-				"values" : [
+				"values": [
 					1,
 					2,
 					3,
@@ -164,11 +164,11 @@
 				]
 			},
 			{
-				"bonus" : {
-					"type" : "ENCHANTED",
-					"subtype" : "spell.prayer"
+				"bonus": {
+					"type": "ENCHANTED",
+					"subtype": "spell.prayer"
 				},
-				"values" : [
+				"values": [
 					0,
 					0,
 					0,
@@ -182,11 +182,11 @@
 				]
 			},
 			{
-				"bonus" : {
-					"type" : "ENCHANTED",
-					"subtype" : "spell.bless"
+				"bonus": {
+					"type": "ENCHANTED",
+					"subtype": "spell.bless"
 				},
-				"values" : [
+				"values": [
 					0,
 					0,
 					0,
@@ -200,10 +200,10 @@
 				]
 			},
 			{
-				"bonus" : {
-					"type" : "STACKS_SPEED"
+				"bonus": {
+					"type": "STACKS_SPEED"
 				},
-				"values" : [
+				"values": [
 					0,
 					0,
 					0,
