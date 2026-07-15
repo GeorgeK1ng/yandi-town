@@ -358,7 +358,7 @@
 					"id" : 25
 				},
 				"special7" : {
-					"description" : "The Xuanyuan Gate provides your kingdom with an additional +1 ore and 500 gold each day.",
+					"description" : "The Xuanyuan Gate provides your kingdom with an additional +1 of each resource and 500 gold each day.",
 					"name" : "Xuanyuan Gate",
 					"cost" : {
 						"wood" : 20,
@@ -844,7 +844,7 @@
 					"id" : 105
 				},
 				"special12" : {
-					"description" : "The Yinglong Stone Carving provides your kingdom with an additional 1000 gold each day and increases the land movement rate of any visiting hero.",
+					"description" : "The Yinglong Stone Carving provides your kingdom with an additional 500 gold each day and increases the land movement of any visiting hero for one week.",
 					"name" : "Yinglong Stone Carving",
 					"cost" : {
 						"wood" : 20,
@@ -912,7 +912,7 @@
 					"id" : 107
 				},
 				"grail" : {
-					"description" : "The Flame God Pillar increases weekly creature production by 50%, provides an additional 5000 gold per day for your kingdom, allows all heroes to use the highest level of fire magic, and grants all Yandi town creatures immunity to fire and a 30% health bonus.",
+					"description" : "The Flame God Pillar increases weekly creature production by 50%, provides an additional 5000 gold per day for your kingdom, allows all heroes to use expert Fire Magic, and grants all Yandi town creatures immunity to fire and +200 health.",
 					"name" : "Flame God Pillar",
 					"produce" : {
 						"gold" : 5000
@@ -1141,8 +1141,8 @@
 					"upgrades" : "dwellingLvl7"
 				},
 				"dwellingUp2Lvl1" : {
-					"description" : "The Elite Sky Fox Pavilion allows you to recruit Golden Fox Warriors.",
-					"name" : "Elite Sky Fox Pavilion",
+					"description" : "The Upg. Sky Fox Pavilion allows you to recruit Golden Fox Warriors.",
+					"name" : "Upg. Sky Fox Pavilion",
 					"cost" : {
 						"gold" : 1000,
 						"ore" : 5
@@ -1153,8 +1153,8 @@
 					"upgrades" : "dwellingUpLvl1"
 				},
 				"dwellingUp2Lvl2" : {
-					"description" : "The Elite Brute Frog Palace allows you to recruit Spine Brute Frogs.",
-					"name" : "Elite Brute Frog Palace",
+					"description" : "The Upg. Brute Frog Palace allows you to recruit Spine Brute Frogs.",
+					"name" : "Upg. Brute Frog Palace",
 					"cost" : {
 						"gold" : 1000,
 						"wood" : 5,
@@ -1163,8 +1163,8 @@
 					"upgrades" : "dwellingUpLvl2"
 				},
 				"dwellingUp2Lvl3" : {
-					"description" : "The Elite Imperial Feather Palace allows you to recruit Feathered Guardians.",
-					"name" : "Elite Imperial Feather Palace",
+					"description" : "The Upg. Imperial Feather Palace allows you to recruit Feathered Guardians.",
+					"name" : "Upg. Imperial Feather Palace",
 					"cost" : {
 						"gold" : 1000,
 						"ore" : 5
@@ -1172,8 +1172,8 @@
 					"upgrades" : "dwellingUpLvl3"
 				},
 				"dwellingUp2Lvl4" : {
-					"description" : "The Elite Asura Field allows you to recruit Winged Yaksha Champions.",
-					"name" : "Elite Asura Field",
+					"description" : "The Upg. Asura Field allows you to recruit Winged Yaksha Champions.",
+					"name" : "Upg. Asura Field",
 					"cost" : {
 						"gold" : 2000,
 						"ore" : 5,
@@ -1182,8 +1182,8 @@
 					"upgrades" : "dwellingUpLvl4"
 				},
 				"dwellingUp2Lvl5" : {
-					"description" : "The Elite Qiongqi Hall allows you to recruit Ancient Qiongqi.",
-					"name" : "Elite Qiongqi Hall",
+					"description" : "The Upg. Qiongqi Hall allows you to recruit Ancient Qiongqi.",
+					"name" : "Upg. Qiongqi Hall",
 					"cost" : {
 						"wood" : 2,
 						"gold" : 1000,
@@ -1196,8 +1196,8 @@
 					"upgrades" : "dwellingUpLvl5"
 				},
 				"dwellingUp2Lvl6" : {
-					"description" : "The Elite Mystic Heaven Pavilion allows you to recruit Darkflame Hundun.",
-					"name" : "Elite Mystic Heaven Pavilion",
+					"description" : "The Upg. Mystic Heaven Pavilion allows you to recruit Darkflame Hundun.",
+					"name" : "Upg. Mystic Heaven Pavilion",
 					"cost" : {
 						"gold" : 3000,
 						"wood" : 10
@@ -1205,8 +1205,8 @@
 					"upgrades" : "dwellingUpLvl6"
 				},
 				"dwellingUp2Lvl7" : {
-					"description" : "The Elite Yandi Palace allows you to recruit Yandi Ba.",
-					"name" : "Elite Yandi Palace",
+					"description" : "The Upg. Yandi Palace allows you to recruit Yandi Ba.",
+					"name" : "Upg. Yandi Palace",
 					"cost" : {
 						"wood" : 5,
 						"sulfur" : 5,

@@ -43,8 +43,8 @@
 			"biography" : "A farming expert of the Yandi tribe, whose ancestors were core members who followed Shennong in tasting a hundred herbs and teaching farming techniques. He has a high sensitivity to soil and climate, able to accurately determine the suitable environment for different crops. After crossing to Jadam, he discovered that although the soil of the volcanic plain was fertile, the dry climate and large temperature difference between day and night made it difficult for Chinese crops to adapt. He led the farming team through repeated experiments, hybridizing Chinese grain seeds with native Jadam plants to develop new crops such as 'Yan Grain' and 'Fire Wheat' that combined high yield and drought resistance. He also drew on Mochen's earth magic to improve soil structure through magical means, enhancing the crops' resistance to pests and diseases. In the early days of Yandi City, it was the high-yield crops he cultivated that solved the food crisis for the tribe and the indigenous people, laying the material foundation for the subsequent rise of their power. He also taught farming techniques to the indigenous tribes, promoting the integration of the two peoples.",
 			"specialty" : {
 				"description" : "All troops gain +1 Speed. Good creatures gain +1 Morale, neutral creatures gain +1 Luck, and the hero's troops cast Bless as enchanters.",
-				"tooltip" : "Blessed Harvest Enchantment",
-				"name" : "Blessed Harvest Enchantment"
+				"tooltip" : "Harvest Bless",
+				"name" : "Harvest Bless"
 			}
 		},
 		"specialty" : {

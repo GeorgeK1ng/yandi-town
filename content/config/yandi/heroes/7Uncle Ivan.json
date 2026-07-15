@@ -40,8 +40,8 @@
 			"biography" : "A covert scout of the Yandi tribe, skilled in stealth, reconnaissance, and assassination. Before crossing through time and space, he was responsible for behind-enemy-lines reconnaissance and intelligence gathering, delivering critical information to the tribe during many crisis moments. Upon arriving in Jadam, he took the initiative to scout the surrounding powers, venturing deep into the Shadow Spiral Mountains to investigate the movements of the undead forces and mapping out the distribution and attitudes of the indigenous tribes. During the confrontation with the Chiyou remnant, he led scout units deep into enemy camps, stealing their battle plans and assassinating several key commanders of the Chiyou remnant, greatly disrupting enemy deployments. His stealth skills were extremely advanced, allowing him to move freely within the sensing range of dark mages and even avoid magical traps. He was the 'hidden agent' of Yandi City, providing covert security for the tribe.",
 			"specialty" : {
 				"description" : "The hero may cast three times per combat round. Air spells deal additional damage based on hero level, Yandi creatures are immune to air spell damage, and their attacks cast Lightning Bolt.",
-				"tooltip" : "Shadow Stealth Art",
-				"name" : "Shadow Stealth Art"
+				"tooltip" : "Thunder Shadow",
+				"name" : "Thunder Shadow"
 			}
 		},
 		"spellbook" : [

@@ -37,11 +37,11 @@
 		],
 		"texts" : {
 			"name" : "Xuan Ge",
-			"biography" : "An heir of the Yandi tribe's archery family, skilled in making arrows enhanced with witchcraft. Before the crossing, he had achieved the feat of 'a hundred paces to hit a willow, three arrows in a row'. Upon arriving in Jadam, flying magical beasts often harassed the tribe's settlement on the volcanic plain. He led archer units to build 'Fire Watchtowers', killing the beasts with 'Flame Arrows' infused with volcanic sulfur and herbs, solving the tribe's urgent problems. He discovered that Jadam's 'Iron Grain Wood' was extremely hard, so he collaborated with craftsmen to improve the bow's design, creating the 'Black Iron Bow', with range and penetration far exceeding traditional bows. He also borrowed the mages' 'enchantment techniques' to add an 'armor-piercing' effect to his arrows, capable of penetrating the dark mages' magic shields. In the decisive battle, he led the Forest Guard to occupy high ground, accurately shooting dark mages in the back rows with his 'Black Iron Cloud Piercing Art' to prevent them from casting large-scale curse magic. His archer unit became known as the 'Eagle Eye of Yandi City'.",
+			"biography" : "An heir of the Yandi tribe's archery family, skilled in making arrows enhanced with witchcraft. Before the crossing, he had achieved the feat of 'a hundred paces to hit a willow, three arrows in a row'. Upon arriving in Jadam, flying magical beasts often harassed the tribe's settlement on the volcanic plain. He led archer units to build 'Fire Watchtowers', killing the beasts with 'Flame Arrows' infused with volcanic sulfur and herbs, solving the tribe's urgent problems. He discovered that Jadam's 'Iron Grain Wood' was extremely hard, so he collaborated with craftsmen to improve the bow's design, creating the 'Black Iron Bow', with range and penetration far exceeding traditional bows. He also borrowed the mages' 'enchantment techniques' to add an 'armor-piercing' effect to his arrows, capable of penetrating the dark mages' magic shields. In the decisive battle, he led the Forest Guard to occupy high ground, accurately shooting dark mages in the back rows with his 'Ironbow' to prevent them from casting large-scale curse magic. His archer unit became known as the 'Eagle Eye of Yandi City'.",
 			"specialty" : {
 				"description" : "Yandi creatures gain +1 Speed, suffer no range or melee penalty, and ranged attacks deal extra damage from Archery based on hero level.",
-				"tooltip" : "Black Iron Cloud Piercing Art",
-				"name" : "Black Iron Cloud Piercing Art"
+				"tooltip" : "Ironbow",
+				"name" : "Ironbow"
 			}
 		},
 		"spellbook" : [

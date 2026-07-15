@@ -40,8 +40,8 @@
 			"biography" : "An ancient witchcraft priest of the Yandi tribe, inheriting Shennong's witchcraft secrets, skilled in countering dark curses and applying buffs. Her witchcraft differs from mage magic, focusing more on communication with natural energy, and has a natural countering effect against dark energy. When crossing through time and space, she used her witchcraft to protect the tribe's core texts, preventing them from being destroyed by the temporal currents. When fighting against dark mages, her 'Curse Resistance' witchcraft became an important safeguard for the allied forces, effectively resisting the curse erosion of dark mages. Her 'Weakness Curse' could weaken the combat power of the Chiyou remnant warriors, giving the allied forces an advantage in melee combat. She could also communicate with Jadam's nature spirits through witchcraft, gaining protection from forests and mountains — during reconnaissance, the nature spirits would guide her direction and help avoid danger. She is the core of Yandi City's witchcraft heritage and an important force in resisting dark powers.",
 			"specialty" : {
 				"description" : "Summons Brute Frogs as guardians. Brute Frogs and their upgrades gain +10 health, +1 Speed, First Strike, and cast Cure as enchanters.",
-				"tooltip" : "Moon Spirit Curse Mastery Art",
-				"name" : "Moon Spirit Curse Mastery Art"
+				"tooltip" : "Moon Curse",
+				"name" : "Moon Curse"
 			}
 		},
 		"spellbook" : [
