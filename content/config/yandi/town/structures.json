@@ -1,444 +1,443 @@
 {
-	"yandi" : {
-		"town" : {
-			"structures" : {
-				"mageGuild1" : {
-					"animation" : "yandi/town-screen/buildings/0mag1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/0mag1.png",
-					"area" : "yandi/town-screen/buildings-area/0mag1.png"
+	"yandi": {
+		"town": {
+			"structures": {
+				"mageGuild1": {
+					"animation": "yandi/town-screen/buildings/0mag1.json",
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"border": "yandi/town-screen/buildings-border/0mag1.png",
+					"area": "yandi/town-screen/buildings-area/0mag1.png"
 				},
-				"mageGuild2" : {
-					"animation" : "yandi/town-screen/buildings/1mag2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/1mag2.png",
-					"area" : "yandi/town-screen/buildings-area/1mag2.png"
+				"mageGuild2": {
+					"animation": "yandi/town-screen/buildings/1mag2.json",
+					"x": 0,
+					"y": 0,
+					"z": 1,
+					"border": "yandi/town-screen/buildings-border/1mag2.png",
+					"area": "yandi/town-screen/buildings-area/1mag2.png"
 				},
-				"mageGuild3" : {
-					"animation" : "yandi/town-screen/buildings/2mag3.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/2mag3.png",
-					"area" : "yandi/town-screen/buildings-area/2mag3.png"
+				"mageGuild3": {
+					"animation": "yandi/town-screen/buildings/2mag3.json",
+					"x": 0,
+					"y": 0,
+					"z": 2,
+					"border": "yandi/town-screen/buildings-border/2mag3.png",
+					"area": "yandi/town-screen/buildings-area/2mag3.png"
 				},
-				"mageGuild4" : {
-					"animation" : "yandi/town-screen/buildings/3mag4.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/3mag4.png",
-					"area" : "yandi/town-screen/buildings-area/3mag4.png"
+				"mageGuild4": {
+					"animation": "yandi/town-screen/buildings/3mag4.json",
+					"x": 0,
+					"y": 0,
+					"z": 3,
+					"border": "yandi/town-screen/buildings-border/3mag4.png",
+					"area": "yandi/town-screen/buildings-area/3mag4.png"
 				},
-				"mageGuild5" : {
-					"animation" : "yandi/town-screen/buildings/4mag5.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/4mag5.png",
-					"area" : "yandi/town-screen/buildings-area/4mag5.png"
+				"mageGuild5": {
+					"animation": "yandi/town-screen/buildings/4mag5.json",
+					"x": 0,
+					"y": 0,
+					"z": 4,
+					"border": "yandi/town-screen/buildings-border/4mag5.png",
+					"area": "yandi/town-screen/buildings-area/4mag5.png"
 				},
-				"tavern" : {
-					"animation" : "yandi/town-screen/buildings/5tvrn.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/5tvrn.png",
-					"area" : "yandi/town-screen/buildings-area/5tvrn.png"
+				"tavern": {
+					"animation": "yandi/town-screen/buildings/5tvrn.json",
+					"x": 0,
+					"y": 0,
+					"z": 5,
+					"border": "yandi/town-screen/buildings-border/5tvrn.png",
+					"area": "yandi/town-screen/buildings-area/5tvrn.png"
 				},
-
-				"fort" : {
-					"animation" : "yandi/town-screen/buildings/7cast1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/7cast1.png",
-					"area" : "yandi/town-screen/buildings-area/7cast1.png"
+				"fort": {
+					"animation": "yandi/town-screen/buildings/7cast1.json",
+					"x": 0,
+					"y": 0,
+					"z": 6,
+					"border": "yandi/town-screen/buildings-border/7cast1.png",
+					"area": "yandi/town-screen/buildings-area/7cast1.png"
 				},
-				"citadel" : {
-					"animation" : "yandi/town-screen/buildings/8cast2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/8cast2.png",
-					"area" : "yandi/town-screen/buildings-area/8cast2.png"
+				"citadel": {
+					"animation": "yandi/town-screen/buildings/8cast2.json",
+					"x": 0,
+					"y": 0,
+					"z": 7,
+					"border": "yandi/town-screen/buildings-border/8cast2.png",
+					"area": "yandi/town-screen/buildings-area/8cast2.png"
 				},
-				"castle" : {
-					"animation" : "yandi/town-screen/buildings/9cast3.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/9cast3.png",
-					"area" : "yandi/town-screen/buildings-area/9cast3.png"
+				"castle": {
+					"animation": "yandi/town-screen/buildings/9cast3.json",
+					"x": 0,
+					"y": 0,
+					"z": 8,
+					"border": "yandi/town-screen/buildings-border/9cast3.png",
+					"area": "yandi/town-screen/buildings-area/9cast3.png"
 				},
-				"villageHall" : {
-					"animation" : "yandi/town-screen/buildings/10hall1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/10hall1.png",
-					"area" : "yandi/town-screen/buildings-area/10hall1.png"
+				"villageHall": {
+					"animation": "yandi/town-screen/buildings/10hall1.json",
+					"x": 0,
+					"y": 0,
+					"z": 9,
+					"border": "yandi/town-screen/buildings-border/10hall1.png",
+					"area": "yandi/town-screen/buildings-area/10hall1.png"
 				},
-				"townHall" : {
-					"animation" : "yandi/town-screen/buildings/11hall2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/11hall2.png",
-					"area" : "yandi/town-screen/buildings-area/11hall2.png"
+				"townHall": {
+					"animation": "yandi/town-screen/buildings/11hall2.json",
+					"x": 0,
+					"y": 0,
+					"z": 10,
+					"border": "yandi/town-screen/buildings-border/11hall2.png",
+					"area": "yandi/town-screen/buildings-area/11hall2.png"
 				},
-				"cityHall" : {
-					"animation" : "yandi/town-screen/buildings/12hall3.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/12hall3.png",
-					"area" : "yandi/town-screen/buildings-area/12hall3.png"
+				"cityHall": {
+					"animation": "yandi/town-screen/buildings/12hall3.json",
+					"x": 0,
+					"y": 0,
+					"z": 11,
+					"border": "yandi/town-screen/buildings-border/12hall3.png",
+					"area": "yandi/town-screen/buildings-area/12hall3.png"
 				},
-				"capitol" : {
-					"animation" : "yandi/town-screen/buildings/13hall4.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/13hall4.png",
-					"area" : "yandi/town-screen/buildings-area/13hall4.png"
+				"capitol": {
+					"animation": "yandi/town-screen/buildings/13hall4.json",
+					"x": 0,
+					"y": 0,
+					"z": 12,
+					"border": "yandi/town-screen/buildings-border/13hall4.png",
+					"area": "yandi/town-screen/buildings-area/13hall4.png"
 				},
-				"marketplace" : {
-					"animation" : "yandi/town-screen/buildings/14mark.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/14mark.png",
-					"area" : "yandi/town-screen/buildings-area/14mark.png"
+				"marketplace": {
+					"animation": "yandi/town-screen/buildings/14mark.json",
+					"x": 0,
+					"y": 0,
+					"z": 13,
+					"border": "yandi/town-screen/buildings-border/14mark.png",
+					"area": "yandi/town-screen/buildings-area/14mark.png"
 				},
-				"resourceSilo" : {
-					"animation" : "yandi/town-screen/buildings/15silo.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/15silo.png",
-					"area" : "yandi/town-screen/buildings-area/15silo.png"
+				"resourceSilo": {
+					"animation": "yandi/town-screen/buildings/15silo.json",
+					"x": 0,
+					"y": 0,
+					"z": 14,
+					"border": "yandi/town-screen/buildings-border/15silo.png",
+					"area": "yandi/town-screen/buildings-area/15silo.png"
 				},
-				"blacksmith" : {
-					"animation" : "yandi/town-screen/buildings/16BLAK.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/16BLAK.png",
-					"area" : "yandi/town-screen/buildings-area/16BLAK.png"
+				"blacksmith": {
+					"animation": "yandi/town-screen/buildings/16BLAK.json",
+					"x": 0,
+					"y": 0,
+					"z": 15,
+					"border": "yandi/town-screen/buildings-border/16BLAK.png",
+					"area": "yandi/town-screen/buildings-area/16BLAK.png"
 				},
-				"special1" : {
-					"animation" : "yandi/town-screen/buildings/17Spec1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/17Spec1.png",
-					"area" : "yandi/town-screen/buildings-area/17Spec1.png"
+				"special1": {
+					"animation": "yandi/town-screen/buildings/17Spec1.json",
+					"x": 0,
+					"y": 0,
+					"z": 16,
+					"border": "yandi/town-screen/buildings-border/17Spec1.png",
+					"area": "yandi/town-screen/buildings-area/17Spec1.png"
 				},
-				"horde1" : {
-					"animation" : "yandi/town-screen/buildings/18hrd1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/18hrd1.png",
-					"area" : "yandi/town-screen/buildings-area/18hrd1.png",
-					"hidden" : true
+				"horde1": {
+					"animation": "yandi/town-screen/buildings/18hrd1.json",
+					"x": 0,
+					"y": 0,
+					"z": 17,
+					"border": "yandi/town-screen/buildings-border/18hrd1.png",
+					"area": "yandi/town-screen/buildings-area/18hrd1.png",
+					"hidden": true
 				},
-				"horde1Upgr" : {
-					"animation" : "yandi/town-screen/buildings/19hrd2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/19hrd2.png",
-					"area" : "yandi/town-screen/buildings-area/19hrd2.png",
-					"hidden" : true,
-					"builds" : "horde1"
+				"horde1Upgr": {
+					"animation": "yandi/town-screen/buildings/19hrd2.json",
+					"x": 0,
+					"y": 0,
+					"z": 18,
+					"border": "yandi/town-screen/buildings-border/19hrd2.png",
+					"area": "yandi/town-screen/buildings-area/19hrd2.png",
+					"hidden": true,
+					"builds": "horde1"
 				},
-				"horde1Upgr2" : {
-					"animation" : "yandi/town-screen/buildings/19hrd2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/19hrd2.png",
-					"area" : "yandi/town-screen/buildings-area/19hrd2.png",
-					"hidden" : true,
-					"builds" : "horde1Upgr"
+				"horde1Upgr2": {
+					"animation": "yandi/town-screen/buildings/19hrd2.json",
+					"x": 0,
+					"y": 0,
+					"z": 19,
+					"border": "yandi/town-screen/buildings-border/19hrd2.png",
+					"area": "yandi/town-screen/buildings-area/19hrd2.png",
+					"hidden": true,
+					"builds": "horde1Upgr"
 				},
-				"special2" : {
-					"animation" : "yandi/town-screen/buildings/21Spec2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/21Spec2.png",
-					"area" : "yandi/town-screen/buildings-area/21Spec2.png"
+				"special2": {
+					"animation": "yandi/town-screen/buildings/21Spec2.json",
+					"x": 0,
+					"y": 0,
+					"z": 20,
+					"border": "yandi/town-screen/buildings-border/21Spec2.png",
+					"area": "yandi/town-screen/buildings-area/21Spec2.png"
 				},
-				"special3" : {
-					"animation" : "yandi/town-screen/buildings/22Spec3.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/22Spec3.png",
-					"area" : "yandi/town-screen/buildings-area/22Spec3.png"
+				"special3": {
+					"animation": "yandi/town-screen/buildings/22Spec3.json",
+					"x": 0,
+					"y": 0,
+					"z": 21,
+					"border": "yandi/town-screen/buildings-border/22Spec3.png",
+					"area": "yandi/town-screen/buildings-area/22Spec3.png"
 				},
-				"special4" : {
-					"animation" : "yandi/town-screen/buildings/23Spec4.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/23Spec4.png",
-					"area" : "yandi/town-screen/buildings-area/23Spec4.png"
+				"special4": {
+					"animation": "yandi/town-screen/buildings/23Spec4.json",
+					"x": 0,
+					"y": 0,
+					"z": 22,
+					"border": "yandi/town-screen/buildings-border/23Spec4.png",
+					"area": "yandi/town-screen/buildings-area/23Spec4.png"
 				},
-				"special5" : {
-					"animation" : "yandi/town-screen/buildings/24Spec5.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/24Spec5.png",
-					"area" : "yandi/town-screen/buildings-area/24Spec5.png"
+				"special5": {
+					"animation": "yandi/town-screen/buildings/24Spec5.json",
+					"x": 0,
+					"y": 0,
+					"z": 23,
+					"border": "yandi/town-screen/buildings-border/24Spec5.png",
+					"area": "yandi/town-screen/buildings-area/24Spec5.png"
 				},
-				"special6" : {
-					"animation" : "yandi/town-screen/buildings/25Spec6.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/25Spec6.png",
-					"area" : "yandi/town-screen/buildings-area/25Spec6.png"
+				"special6": {
+					"animation": "yandi/town-screen/buildings/25Spec6.json",
+					"x": 0,
+					"y": 0,
+					"z": 24,
+					"border": "yandi/town-screen/buildings-border/25Spec6.png",
+					"area": "yandi/town-screen/buildings-area/25Spec6.png"
 				},
-				"special7" : {
-					"animation" : "yandi/town-screen/buildings/6shipyard.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/6shipyard.png",
-					"area" : "yandi/town-screen/buildings-area/6shipyard.png"
+				"special7": {
+					"animation": "yandi/town-screen/buildings/6shipyard.json",
+					"x": 0,
+					"y": 0,
+					"z": 25,
+					"border": "yandi/town-screen/buildings-border/6shipyard.png",
+					"area": "yandi/town-screen/buildings-area/6shipyard.png"
 				},
-				"special8" : {
-					"animation" : "yandi/town-screen/buildings/20ship.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/20ship.png",
-					"area" : "yandi/town-screen/buildings-area/20ship.png"
+				"special8": {
+					"animation": "yandi/town-screen/buildings/20ship.json",
+					"x": 0,
+					"y": 0,
+					"z": 26,
+					"border": "yandi/town-screen/buildings-border/20ship.png",
+					"area": "yandi/town-screen/buildings-area/20ship.png"
 				},
-				"special9" : {
-					"animation" : "yandi/town-screen/buildings/103.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/103.png",
-					"area" : "yandi/town-screen/buildings-area/103.png"
+				"special9": {
+					"animation": "yandi/town-screen/buildings/103.json",
+					"x": 0,
+					"y": 0,
+					"z": 27,
+					"border": "yandi/town-screen/buildings-border/103.png",
+					"area": "yandi/town-screen/buildings-area/103.png"
 				},
-				"special10" : {
-					"animation" : "yandi/town-screen/buildings/104.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/104.png",
-					"area" : "yandi/town-screen/buildings-area/104.png"
+				"special10": {
+					"animation": "yandi/town-screen/buildings/104.json",
+					"x": 0,
+					"y": 0,
+					"z": 28,
+					"border": "yandi/town-screen/buildings-border/104.png",
+					"area": "yandi/town-screen/buildings-area/104.png"
 				},
-				"special11" : {
-					"animation" : "yandi/town-screen/buildings/27extraTownHall.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/27extraTownHall.png",
-					"area" : "yandi/town-screen/buildings-area/27extraTownHall.png"
+				"special11": {
+					"animation": "yandi/town-screen/buildings/27extraTownHall.json",
+					"x": 0,
+					"y": 0,
+					"z": 29,
+					"border": "yandi/town-screen/buildings-border/27extraTownHall.png",
+					"area": "yandi/town-screen/buildings-area/27extraTownHall.png"
 				},
-				"special12" : {
-					"animation" : "yandi/town-screen/buildings/28extraCityHall.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/28extraCityHall.png",
-					"area" : "yandi/town-screen/buildings-area/28extraCityHall.png"
+				"special12": {
+					"animation": "yandi/town-screen/buildings/28extraCityHall.json",
+					"x": 0,
+					"y": 0,
+					"z": 30,
+					"border": "yandi/town-screen/buildings-border/28extraCityHall.png",
+					"area": "yandi/town-screen/buildings-area/28extraCityHall.png"
 				},
-				"special13" : {
-					"animation" : "yandi/town-screen/buildings/29extraCapitol.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/29extraCapitol.png",
-					"area" : "yandi/town-screen/buildings-area/29extraCapitol.png"
+				"special13": {
+					"animation": "yandi/town-screen/buildings/29extraCapitol.json",
+					"x": 0,
+					"y": 0,
+					"z": 31,
+					"border": "yandi/town-screen/buildings-border/29extraCapitol.png",
+					"area": "yandi/town-screen/buildings-area/29extraCapitol.png"
 				},
-				"grail" : {
-					"animation" : "yandi/town-screen/buildings/26GRAIL.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/26GRAIL.png",
-					"area" : "yandi/town-screen/buildings-area/26GRAIL.png"
+				"grail": {
+					"animation": "yandi/town-screen/buildings/26GRAIL.json",
+					"x": 0,
+					"y": 0,
+					"z": 32,
+					"border": "yandi/town-screen/buildings-border/26GRAIL.png",
+					"area": "yandi/town-screen/buildings-area/26GRAIL.png"
 				},
-				"dwellingLvl1" : {
-					"animation" : "yandi/town-screen/buildings/30dw_0.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/30dw_0.png",
-					"area" : "yandi/town-screen/buildings-area/30dw_0.png"
+				"dwellingLvl1": {
+					"animation": "yandi/town-screen/buildings/30dw_0.json",
+					"x": 0,
+					"y": 0,
+					"z": 33,
+					"border": "yandi/town-screen/buildings-border/30dw_0.png",
+					"area": "yandi/town-screen/buildings-area/30dw_0.png"
 				},
-				"dwellingLvl2" : {
-					"animation" : "yandi/town-screen/buildings/31dw_1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/31dw_1.png",
-					"area" : "yandi/town-screen/buildings-area/31dw_1.png"
+				"dwellingLvl2": {
+					"animation": "yandi/town-screen/buildings/31dw_1.json",
+					"x": 0,
+					"y": 0,
+					"z": 34,
+					"border": "yandi/town-screen/buildings-border/31dw_1.png",
+					"area": "yandi/town-screen/buildings-area/31dw_1.png"
 				},
-				"dwellingLvl3" : {
-					"animation" : "yandi/town-screen/buildings/32dw_2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/32dw_2.png",
-					"area" : "yandi/town-screen/buildings-area/32dw_2.png"
+				"dwellingLvl3": {
+					"animation": "yandi/town-screen/buildings/32dw_2.json",
+					"x": 0,
+					"y": 0,
+					"z": 35,
+					"border": "yandi/town-screen/buildings-border/32dw_2.png",
+					"area": "yandi/town-screen/buildings-area/32dw_2.png"
 				},
-				"dwellingLvl4" : {
-					"animation" : "yandi/town-screen/buildings/33dw_3.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/33dw_3.png",
-					"area" : "yandi/town-screen/buildings-area/33dw_3.png"
+				"dwellingLvl4": {
+					"animation": "yandi/town-screen/buildings/33dw_3.json",
+					"x": 0,
+					"y": 0,
+					"z": 36,
+					"border": "yandi/town-screen/buildings-border/33dw_3.png",
+					"area": "yandi/town-screen/buildings-area/33dw_3.png"
 				},
-				"dwellingLvl5" : {
-					"animation" : "yandi/town-screen/buildings/34dw_4.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/34dw_4.png",
-					"area" : "yandi/town-screen/buildings-area/34dw_4.png"
+				"dwellingLvl5": {
+					"animation": "yandi/town-screen/buildings/34dw_4.json",
+					"x": 0,
+					"y": 0,
+					"z": 37,
+					"border": "yandi/town-screen/buildings-border/34dw_4.png",
+					"area": "yandi/town-screen/buildings-area/34dw_4.png"
 				},
-				"dwellingLvl6" : {
-					"animation" : "yandi/town-screen/buildings/35dw_5.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/35dw_5.png",
-					"area" : "yandi/town-screen/buildings-area/35dw_5.png"
+				"dwellingLvl6": {
+					"animation": "yandi/town-screen/buildings/35dw_5.json",
+					"x": 0,
+					"y": 0,
+					"z": 38,
+					"border": "yandi/town-screen/buildings-border/35dw_5.png",
+					"area": "yandi/town-screen/buildings-area/35dw_5.png"
 				},
-				"dwellingLvl7" : {
-					"animation" : "yandi/town-screen/buildings/36dw_6.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/36dw_6.png",
-					"area" : "yandi/town-screen/buildings-area/36dw_6.png"
+				"dwellingLvl7": {
+					"animation": "yandi/town-screen/buildings/36dw_6.json",
+					"x": 0,
+					"y": 0,
+					"z": 39,
+					"border": "yandi/town-screen/buildings-border/36dw_6.png",
+					"area": "yandi/town-screen/buildings-area/36dw_6.png"
 				},
-				"dwellingUpLvl1" : {
-					"animation" : "yandi/town-screen/buildings/37Lup_0.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/37Lup_0.png",
-					"area" : "yandi/town-screen/buildings-area/37Lup_0.png"
+				"dwellingUpLvl1": {
+					"animation": "yandi/town-screen/buildings/37Lup_0.json",
+					"x": 0,
+					"y": 0,
+					"z": 40,
+					"border": "yandi/town-screen/buildings-border/37Lup_0.png",
+					"area": "yandi/town-screen/buildings-area/37Lup_0.png"
 				},
-				"dwellingUpLvl2" : {
-					"animation" : "yandi/town-screen/buildings/38Lup_1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/38Lup_1.png",
-					"area" : "yandi/town-screen/buildings-area/38Lup_1.png"
+				"dwellingUpLvl2": {
+					"animation": "yandi/town-screen/buildings/38Lup_1.json",
+					"x": 0,
+					"y": 0,
+					"z": 41,
+					"border": "yandi/town-screen/buildings-border/38Lup_1.png",
+					"area": "yandi/town-screen/buildings-area/38Lup_1.png"
 				},
-				"dwellingUpLvl3" : {
-					"animation" : "yandi/town-screen/buildings/39Lup_2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/39Lup_2.png",
-					"area" : "yandi/town-screen/buildings-area/39Lup_2.png"
+				"dwellingUpLvl3": {
+					"animation": "yandi/town-screen/buildings/39Lup_2.json",
+					"x": 0,
+					"y": 0,
+					"z": 42,
+					"border": "yandi/town-screen/buildings-border/39Lup_2.png",
+					"area": "yandi/town-screen/buildings-area/39Lup_2.png"
 				},
-				"dwellingUpLvl4" : {
-					"animation" : "yandi/town-screen/buildings/40Lup_3.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/40Lup_3.png",
-					"area" : "yandi/town-screen/buildings-area/40Lup_3.png"
+				"dwellingUpLvl4": {
+					"animation": "yandi/town-screen/buildings/40Lup_3.json",
+					"x": 0,
+					"y": 0,
+					"z": 43,
+					"border": "yandi/town-screen/buildings-border/40Lup_3.png",
+					"area": "yandi/town-screen/buildings-area/40Lup_3.png"
 				},
-				"dwellingUpLvl5" : {
-					"animation" : "yandi/town-screen/buildings/41Lup_4.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/41Lup_4.png",
-					"area" : "yandi/town-screen/buildings-area/41Lup_4.png"
+				"dwellingUpLvl5": {
+					"animation": "yandi/town-screen/buildings/41Lup_4.json",
+					"x": 0,
+					"y": 0,
+					"z": 44,
+					"border": "yandi/town-screen/buildings-border/41Lup_4.png",
+					"area": "yandi/town-screen/buildings-area/41Lup_4.png"
 				},
-				"dwellingUpLvl6" : {
-					"animation" : "yandi/town-screen/buildings/42Lup_5.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/42Lup_5.png",
-					"area" : "yandi/town-screen/buildings-area/42Lup_5.png"
+				"dwellingUpLvl6": {
+					"animation": "yandi/town-screen/buildings/42Lup_5.json",
+					"x": 0,
+					"y": 0,
+					"z": 45,
+					"border": "yandi/town-screen/buildings-border/42Lup_5.png",
+					"area": "yandi/town-screen/buildings-area/42Lup_5.png"
 				},
-				"dwellingUpLvl7" : {
-					"animation" : "yandi/town-screen/buildings/43Lup_6.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/43Lup_6.png",
-					"area" : "yandi/town-screen/buildings-area/43Lup_6.png"
+				"dwellingUpLvl7": {
+					"animation": "yandi/town-screen/buildings/43Lup_6.json",
+					"x": 0,
+					"y": 0,
+					"z": 46,
+					"border": "yandi/town-screen/buildings-border/43Lup_6.png",
+					"area": "yandi/town-screen/buildings-area/43Lup_6.png"
 				},
-				"dwellingUp2Lvl1" : {
-					"animation" : "yandi/town-screen/buildings/37Lup_0.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/37Lup_0.png",
-					"area" : "yandi/town-screen/buildings-area/37Lup_0.png"
+				"dwellingUp2Lvl1": {
+					"animation": "yandi/town-screen/buildings/37Lup_0.json",
+					"x": 0,
+					"y": 0,
+					"z": 47,
+					"border": "yandi/town-screen/buildings-border/37Lup_0.png",
+					"area": "yandi/town-screen/buildings-area/37Lup_0.png"
 				},
-				"dwellingUp2Lvl2" : {
-					"animation" : "yandi/town-screen/buildings/38Lup_1.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/38Lup_1.png",
-					"area" : "yandi/town-screen/buildings-area/38Lup_1.png"
+				"dwellingUp2Lvl2": {
+					"animation": "yandi/town-screen/buildings/38Lup_1.json",
+					"x": 0,
+					"y": 0,
+					"z": 48,
+					"border": "yandi/town-screen/buildings-border/38Lup_1.png",
+					"area": "yandi/town-screen/buildings-area/38Lup_1.png"
 				},
-				"dwellingUp2Lvl3" : {
-					"animation" : "yandi/town-screen/buildings/39Lup_2.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/39Lup_2.png",
-					"area" : "yandi/town-screen/buildings-area/39Lup_2.png"
+				"dwellingUp2Lvl3": {
+					"animation": "yandi/town-screen/buildings/39Lup_2.json",
+					"x": 0,
+					"y": 0,
+					"z": 49,
+					"border": "yandi/town-screen/buildings-border/39Lup_2.png",
+					"area": "yandi/town-screen/buildings-area/39Lup_2.png"
 				},
-				"dwellingUp2Lvl4" : {
-					"animation" : "yandi/town-screen/buildings/40Lup_3.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/40Lup_3.png",
-					"area" : "yandi/town-screen/buildings-area/40Lup_3.png"
+				"dwellingUp2Lvl4": {
+					"animation": "yandi/town-screen/buildings/40Lup_3.json",
+					"x": 0,
+					"y": 0,
+					"z": 50,
+					"border": "yandi/town-screen/buildings-border/40Lup_3.png",
+					"area": "yandi/town-screen/buildings-area/40Lup_3.png"
 				},
-				"dwellingUp2Lvl5" : {
-					"animation" : "yandi/town-screen/buildings/41Lup_4.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/41Lup_4.png",
-					"area" : "yandi/town-screen/buildings-area/41Lup_4.png"
+				"dwellingUp2Lvl5": {
+					"animation": "yandi/town-screen/buildings/41Lup_4.json",
+					"x": 0,
+					"y": 0,
+					"z": 51,
+					"border": "yandi/town-screen/buildings-border/41Lup_4.png",
+					"area": "yandi/town-screen/buildings-area/41Lup_4.png"
 				},
-				"dwellingUp2Lvl6" : {
-					"animation" : "yandi/town-screen/buildings/42Lup_5.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/42Lup_5.png",
-					"area" : "yandi/town-screen/buildings-area/42Lup_5.png"
+				"dwellingUp2Lvl6": {
+					"animation": "yandi/town-screen/buildings/42Lup_5.json",
+					"x": 0,
+					"y": 0,
+					"z": 52,
+					"border": "yandi/town-screen/buildings-border/42Lup_5.png",
+					"area": "yandi/town-screen/buildings-area/42Lup_5.png"
 				},
-				"dwellingUp2Lvl7" : {
-					"animation" : "yandi/town-screen/buildings/43Lup_6.json",
-					"x" : 0,
-					"y" : 0,
-					"z" : -1,
-					"border" : "yandi/town-screen/buildings-border/43Lup_6.png",
-					"area" : "yandi/town-screen/buildings-area/43Lup_6.png"
+				"dwellingUp2Lvl7": {
+					"animation": "yandi/town-screen/buildings/43Lup_6.json",
+					"x": 0,
+					"y": 0,
+					"z": 53,
+					"border": "yandi/town-screen/buildings-border/43Lup_6.png",
+					"area": "yandi/town-screen/buildings-area/43Lup_6.png"
 				}
 			}
 		}
