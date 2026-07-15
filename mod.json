@@ -2,17 +2,26 @@
 	"name" : "Yandi Town",
 	"description" : "Yandi Town",
 	"author" : "menzhiyuan",
-	"version" : "0.1.0",
-	"contact" : "https://vk.com/",
+	"version" : "0.1.2",
+	"contact" : "",
 	"modType" : "Town",
 	"changelog" : {
+		"0.1.2" : [
+			"Added Czech translation"
+		],
 		"0.1.1" : [
 			"Fixed towscreen palette",
 			"Fixed various text typos"
 		],
 		"0.1.0" : [
-			"Fixed towscreen palette",
-			"Fixed various text typos"
+			"Initial release"
+		]
+	},
+	"czech" : {
+		"name" : "Yandi",
+		"description" : "Yandi",
+		"translations" : [
+			"translation/czech.json"
 		]
 	},
 	"factions" : [
