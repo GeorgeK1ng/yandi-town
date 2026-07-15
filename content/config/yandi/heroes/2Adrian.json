@@ -40,8 +40,8 @@
 			"biography" : "A direct descendant of Yandi Shennong, and the tribal leader who succeeded after the Battle of Zhuolu. When the dimensional portal went awry, he was leading the tribe to rest during their migration. In the critical moment, he used his spiritual power to protect the core altar, allowing the tribe to fully cross the spatial-temporal rift. Upon arriving at the Jadam volcanic plain, he overcame opposition to accept the indigenous tribes, using the benevolent way of his ancestors 'tasting herbs and teaching farming' to unite the people, and presided over the construction of Yandi City. He is proficient in ancient fire witchcraft and farming rituals, able to communicate with the fire energy of the Jadam continent through the flame altar, both to enhance the combat power of his people and to promote crop growth. In the decisive battle against the Chiyou remnant and dark mages, he used the altar as the core to set up a flame barrier, resisting the erosion of dark curses. He is the undeniable spiritual pillar of Yandi City.",
 			"specialty" : {
 				"description" : "The hero's army takes reduced damage from Armorer based on hero level. All troops gain +1 health, +4% health, and the hero gains +2 Defense.",
-				"tooltip" : "Flame Altar Spirit Command",
-				"name" : "Flame Altar Spirit Command"
+				"tooltip" : "Flame Altar",
+				"name" : "Flame Altar"
 			}
 		},
 		"spellbook" : [

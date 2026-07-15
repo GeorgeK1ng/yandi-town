@@ -40,8 +40,8 @@
 			"biography" : "The prince of the Lionman tribe, a tribe that had been allied with the Yandi tribe for generations and had assisted Yandi in the Battle of Zhuolu. When crossing through time and space, he led the lionman cavalry to guard the rear of the tribe. Attacked by flying magical beasts that emerged from the temporal currents, he used his keen sense of smell and swift speed to slay many beasts, ensuring the safety of the rear. After settling in Jadam, he integrated the riding skills of Jadam's nomadic tribes with the melee advantages of the lionman tribe to form the 'Wind Fang Cavalry Regiment'. He excelled at lightning warfare, leading cavalry units to quickly strike enemy flanks or supply camps. In the decisive battle, he led the Wind Fang Cavalry Regiment in a flanking attack, using the lionmen's biting ability and the cavalry's impact to burn down the enemy's supply camp, directly causing the Chiyou remnant's morale to collapse. He personally slew the cavalry commander of the Chiyou remnant, laying the foundation for the victory.",
 			"specialty" : {
 				"description" : "Enemy heroes suffer a 15% Spell Power penalty in combat, increasing as the hero gains levels. The hero also regenerates 100 spell points per day.",
-				"tooltip" : "Gale Bite Art",
-				"name" : "Gale Bite Art"
+				"tooltip" : "Gale Bite",
+				"name" : "Gale Bite"
 			}
 		},
 		"spellbook" : [

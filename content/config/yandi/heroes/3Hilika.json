@@ -40,8 +40,8 @@
 			"biography" : "A forestry and animal husbandry expert of the Yandi tribe, skilled in tree planting and livestock domestication. After crossing through time and space, he discovered that Jadam's forests were rich in resources, but some trees were toxic and unsuitable for direct use. He led his team to clear the toxic trees and plant fast-growing Chinese forests, which not only met the timber needs for city construction but also improved the surrounding ecological environment. In animal husbandry, he hybridized Chinese livestock with native Jadam magical beasts, cultivating livestock varieties that combined docility and high yield. The hybrid 'Yan Oxen' not only produced delicious meat but also helped with farming. The 'Fire Feather Chickens' laid eggs with flame energy, which became an important source of energy for mages. He also drew on the indigenous magical beast taming techniques to train some combat-capable magical beasts (such as flame lizards), which became a special fighting force for Yandi City.",
 			"specialty" : {
 				"description" : "Yandi creatures take 20% less damage from ranged attacks.",
-				"tooltip" : "Flora and Animal Husbandry Art",
-				"name" : "Flora and Animal Husbandry Art"
+				"tooltip" : "Herdcraft",
+				"name" : "Herdcraft"
 			}
 		},
 		"specialty" : {

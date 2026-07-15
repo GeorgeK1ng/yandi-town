@@ -37,11 +37,11 @@
 		],
 		"texts" : {
 			"name" : "Huang Zheng",
-			"biography" : "A lightning magic prodigy of the Yandi tribe, skilled in using thunder energy to fight. His personality is impetuous and brave, making him the core combatant of battle magic. When crossing through time and space, his magical energy was disrupted by the temporal currents, but he unexpectedly awakened a stronger thunder power — the ability to directly summon thunder energy from the sky, which is highly effective against dark creatures and the undead. Upon arriving in Jadam, he used his thunder power to eliminate the magical beasts harassing the tribe, demonstrating his formidable strength. He can cast thunder shields to protect himself and use thunder power to strike enemy forces, earning great merit in many small-scale battles. In the decisive battle, he unleashed the 'Thunder Evil-Breaking Art', sending a massive thunderbolt crashing into the enemy camp, not only destroying a large number of undead troops but also paralyzing the main warriors of the Chiyou remnant, creating the perfect opportunity for the allied forces to charge. His lightning magic, combined with Ao Chi's dragon breath, formed the powerful 'Flame-Thunder Combined Attack', terrifying the enemy forces.",
+			"biography" : "A lightning magic prodigy of the Yandi tribe, skilled in using thunder energy to fight. His personality is impetuous and brave, making him the core combatant of battle magic. When crossing through time and space, his magical energy was disrupted by the temporal currents, but he unexpectedly awakened a stronger thunder power — the ability to directly summon thunder energy from the sky, which is highly effective against dark creatures and the undead. Upon arriving in Jadam, he used his thunder power to eliminate the magical beasts harassing the tribe, demonstrating his formidable strength. He can cast thunder shields to protect himself and use thunder power to strike enemy forces, earning great merit in many small-scale battles. In the decisive battle, he unleashed the 'Yinglong Path', sending a massive thunderbolt crashing into the enemy camp, not only destroying a large number of undead troops but also paralyzing the main warriors of the Chiyou remnant, creating the perfect opportunity for the allied forces to charge. His lightning magic, combined with Ao Chi's dragon breath, formed the powerful 'Flame-Thunder Combined Attack', terrifying the enemy forces.",
 			"specialty" : {
-				"description" : "Grants +500 movement points on land and sea, free ship boarding, Summon Boat and Scuttle Boat at expert level, and protection from whirlpools for the hero's team.",
-				"tooltip" : "Thunder Evil-Breaking Art",
-				"name" : "Thunder Evil-Breaking Art"
+				"description" : "Grants +500 movement points on land and sea, free ship boarding, expert Summon Boat and Scuttle Boat, and whirlpool protection for the hero.",
+				"tooltip" : "Yinglong Path",
+				"name" : "Yinglong Path"
 			}
 		},
 		"specialty" : {

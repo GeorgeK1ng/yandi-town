@@ -37,11 +37,11 @@
 		],
 		"texts" : {
 			"name" : "Sui Ming",
-			"biography" : "His ancestors were commanders of the 'Fire Guards' who charged into battle for Yandi during the Battle of Zhuolu, and he was born with a strong affinity for fire. When crossing through time and space, he was leading the guard to protect the tribe's flank when they were attacked by lava monsters drawn into the rift. Wielding his ancestral bronze sword, he ignited the blade with his spiritual power and slew three monsters, carving out a path to survival. After settling in Jadam, he integrated the indigenous 'magical beast taming' techniques with the Chinese 'Fish Scale Formation' tactics to form the 'Flame Blade Legion'. He discovered that Jadam's sulfur ore could enhance flame power, so he had craftsmen incorporate it into weapon forging, creating exclusive weapons like the 'Crimson Flame Blade' and 'Fire Wind Lance'. In the decisive battle, he led the Flame Blade Legion to break through the Chiyou remnant's 'Black Armor Formation', striking directly at the Chiyou remnant leader with his flame longsword. Although he didn't succeed, he successfully disrupted the enemy's deployment. His 'Crimson Flame Burning Blade Art' terrified the undead troops — the fire's burning damage to undead could directly dismantle their regeneration ability.",
+			"biography" : "His ancestors were commanders of the 'Fire Guards' who charged into battle for Yandi during the Battle of Zhuolu, and he was born with a strong affinity for fire. When crossing through time and space, he was leading the guard to protect the tribe's flank when they were attacked by lava monsters drawn into the rift. Wielding his ancestral bronze sword, he ignited the blade with his spiritual power and slew three monsters, carving out a path to survival. After settling in Jadam, he integrated the indigenous 'magical beast taming' techniques with the Chinese 'Fish Scale Formation' tactics to form the 'Flame Blade Legion'. He discovered that Jadam's sulfur ore could enhance flame power, so he had craftsmen incorporate it into weapon forging, creating exclusive weapons like the 'Crimson Flame Blade' and 'Fire Wind Lance'. In the decisive battle, he led the Flame Blade Legion to break through the Chiyou remnant's 'Black Armor Formation', striking directly at the Chiyou remnant leader with his flame longsword. Although he didn't succeed, he successfully disrupted the enemy's deployment. His 'Flame Blade' terrified the undead troops — the fire's burning damage to undead could directly dismantle their regeneration ability.",
 			"specialty" : {
 				"description" : "Yandi creatures receive Prayer and Cure as special enchantments, gain stronger Stone Skin based on hero level, +5 health, and healing ability.",
-				"tooltip" : "Crimson Flame Burning Blade Art",
-				"name" : "Crimson Flame Burning Blade Art"
+				"tooltip" : "Flame Blade",
+				"name" : "Flame Blade"
 			}
 		},
 		"spellbook" : [
