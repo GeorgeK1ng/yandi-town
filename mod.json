@@ -7,7 +7,12 @@
 	"modType" : "Town",
 	"changelog" : {
 		"0.1.2" : [
-			"Added Czech translation"
+			"Added Czech translation",
+			"Fixed town adventure map shadow and white pixels",
+			"Fixed townhall palette recolor issue",
+			"Fixed unable to select fort in townscreen",
+			"Removed unmapped payload",
+			"Updated default English text"
 		],
 		"0.1.1" : [
 			"Fixed towscreen palette",
