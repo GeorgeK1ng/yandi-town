@@ -80,7 +80,7 @@
 					"y" : 0,
 					"z" : 9,
 					"border" : "yandi/town-screen/buildings-border/10hall1.png",
-					"area" : "yandi/town-screen/buildings-area/13hall4.png"
+					"area" : "yandi/town-screen/buildings-area/10hall1.png"
 				},
 				"special11" : {
 					"animation" : "yandi/town-screen/buildings/27extraTownHall.json",
