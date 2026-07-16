@@ -11,6 +11,7 @@
 			"Fixed town adventure map shadow and white pixels",
 			"Fixed townhall palette recolor issue",
 			"Fixed unable to select fort in townscreen",
+			"Fixed all console errors",
 			"Removed unmapped payload",
 			"Updated default English text"
 		],
