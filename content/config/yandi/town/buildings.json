@@ -221,8 +221,8 @@
 					]
 				},
 				"special2" : {
-					"description" : "The Seven Treasures Glazed Lamp increases the Spell Power of any visiting hero by +2 and increases mana gained per point of Knowledge by 40% for one week.",
-					"name" : "Seven Treasures Glazed Lamp",
+					"description" : "The Order of Fire increases the Spell Power of any visiting hero by +2 and increases mana gained per point of Knowledge by 40% for one week.",
+					"name" : "Order of Fire",
 					"cost" : {
 						"wood" : 20,
 						"gold" : 2000
@@ -342,8 +342,8 @@
 					"id" : 24
 				},
 				"special6" : {
-					"description" : "The Treasure Pavilion allows visiting heroes to purchase various artifacts.",
-					"name" : "Treasure Pavilion",
+					"description" : "For a nominal fee, you can purchase artifacts from the Artifact Merchants.",
+					"name" : "Artifact Merchants",
 					"cost" : {
 						"wood" : 10,
 						"gold" : 2000
@@ -358,8 +358,8 @@
 					"id" : 25
 				},
 				"special7" : {
-					"description" : "The Xuanyuan Gate provides your kingdom with an additional +1 of each resource and 500 gold each day.",
-					"name" : "Xuanyuan Gate",
+					"description" : "The Emperor's Gate provides your kingdom with an additional +1 of each resource and 500 gold each day.",
+					"name" : "Emperor's Gate",
 					"cost" : {
 						"wood" : 20,
 						"gold" : 2000
@@ -446,8 +446,8 @@
 					"id" : 104
 				},
 				"special11" : {
-					"description" : "The Flame Chi Stone Carving provides your kingdom with an additional +1 ore and 500 gold each day and enables elite dwelling upgrades.",
-					"name" : "Flame Chi Stone Carving",
+					"description" : "The Flame Chi Stele provides your kingdom with an additional +1 ore and 500 gold each day and enables elite dwelling upgrades.",
+					"name" : "Flame Chi Stele",
 					"cost" : {
 						"wood" : 20,
 						"gold" : 2000
@@ -844,8 +844,8 @@
 					"id" : 105
 				},
 				"special12" : {
-					"description" : "The Yinglong Stone Carving provides your kingdom with an additional 500 gold each day and increases the land movement of any visiting hero for one week.",
-					"name" : "Yinglong Stone Carving",
+					"description" : "The Yinglong Stele increases the land movement rate of any visiting hero until the end of the week (+1000 movement points). It also provides your kingdom with an additional 500 gold each day.",
+					"name" : "Yinglong Stele",
 					"cost" : {
 						"wood" : 20,
 						"gold" : 2000
@@ -912,7 +912,7 @@
 					"id" : 107
 				},
 				"grail" : {
-					"description" : "The Flame God Pillar increases weekly creature production by 50%, provides an additional 5000 gold per day for your kingdom, allows all heroes to use expert Fire Magic, and grants all Yandi town creatures immunity to fire and +200 health.",
+					"description" : "The Flame God Pillar increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, allows all heroes to use expert Fire Magic, and grants all Yandi town creatures immunity to fire and +200 health.",
 					"name" : "Flame God Pillar",
 					"produce" : {
 						"gold" : 5000
