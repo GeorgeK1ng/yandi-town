@@ -2,7 +2,7 @@
 	"core:creatureGeneratorCommon" : {
 		"types" : {
 			"yandiDwelling1" : {
-				"name" : "Celestial Fox Pavilion",
+				"name" : "Sky Fox Pavilion",
 				"creatures" : [
 					[
 						"yandilv1"
@@ -21,7 +21,7 @@
 				}
 			},
 			"yandiDwelling2" : {
-				"name" : "Barbarian Frog Palace",
+				"name" : "Brute Frog Palace",
 				"creatures" : [
 					[
 						"yandilv2"
@@ -39,7 +39,7 @@
 				}
 			},
 			"yandiDwelling3" : {
-				"name" : "Immortal Palace",
+				"name" : "Imperial Feather Palace",
 				"creatures" : [
 					[
 						"yandilv3"
@@ -78,7 +78,7 @@
 				}
 			},
 			"yandiDwelling5" : {
-				"name" : "Flame Demon Hall",
+				"name" : "Qiongqi Hall",
 				"creatures" : [
 					[
 						"yandilv5"
@@ -117,7 +117,7 @@
 				}
 			},
 			"yandiDwelling7" : {
-				"name" : "Flame Emperor Palace",
+				"name" : "Yandi Palace",
 				"creatures" : [
 					[
 						"yandilv7"
